@@ -1,10 +1,18 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Search component renders correctly 1`] = `
+exports[`Search renders correctly 1`] = `
 <DocumentFragment>
-  <input
-    class="search-input"
-    type="text"
-  />
+  <form>
+    <input
+      class="search-input"
+      type="text"
+    />
+    <button
+      class="search-button"
+      type="submit"
+    >
+      Search
+    </button>
+  </form>
 </DocumentFragment>
 `;

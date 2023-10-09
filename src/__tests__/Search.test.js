@@ -1,7 +1,7 @@
 import { render } from '@testing-library/react';
 import Search from '../components/Search';
 
-describe('Search component', () => {
+describe('Search', () => {
   it('renders correctly', () => {
     const { asFragment } = render(<Search />);
 
