@@ -18,9 +18,12 @@ form {
   font-size: 1.25rem;
   border-radius: 11px;
   margin-left: 1rem;
+  transition: background-color 0.2s,
+              color 0.2s;
 }
 
 .search-button:hover {
   background-color: black;
   color: rgb(252, 61, 33);
+  cursor: pointer;
 }
