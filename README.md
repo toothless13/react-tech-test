@@ -1,6 +1,7 @@
 # React Technical Test
 
 ## Description
+
 The task was to build a React web application that allows users to search for images based on a query to the NASA API endpoint.
 
 ## Screenshots
@@ -17,7 +18,7 @@ Create-react-app was used to initially setup the project.
 
 ## Instructions
 
-Once you have cloned the app, run ```npm install``` in the terminal. Once installation has completed, you should be able to use ```npm start```, which will open the app in your browser. 
+Once you have cloned the app, run ```npm install``` in the terminal. Once installation has completed, you should be able to use ```npm start```, which will open the app in your browser.
 
 From here, you can enter a search term, e.g. Supernova, and if there are any search results, these images would be displayed to the user.
 
