@@ -4,6 +4,10 @@
 
 The task was to build a React web application that allows users to search for images based on a query to the NASA API endpoint.
 
+## Deployed Site
+
+[React Tech Test](https://react-tech-test-mu.vercel.app/)
+
 ## Screenshots
 
 ### Desktop
