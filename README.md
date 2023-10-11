@@ -6,6 +6,14 @@ The task was to build a React web application that allows users to search for im
 
 ## Screenshots
 
+### Desktop
+
+![Desktop App](images/NASA-React-Tech-Test-Desktop.png)
+
+### Mobile
+
+![Mobile App](images/NASA-React-Tech-Test-Mobile.png)
+
 ## Technology
 
 The app was build using React, and the testing utilities were Jest and React Testing Library
